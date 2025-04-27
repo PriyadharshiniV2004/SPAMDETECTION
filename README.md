@@ -19,6 +19,8 @@ This idea is to detect the spam message using ML techniques
 
 ## Key Insights
 - **Text Preprocessing** and **Feature Extraction** play crucial roles in improving the model's performance.
+- **TF-IDF Optimization**: Used TF-IDF vectorization with stopwords removal to focus on meaningful words and reduce dimensionality.
+- **Sample Message Prediction**: Added functionality to allow users to manually test the model with custom messages.
 - The **Multinomial Naive Bayes** classifier is particularly effective for text classification tasks due to its simplicity and efficiency in handling large datasets.
 
 # Dataset
