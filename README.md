@@ -22,7 +22,7 @@ This idea is to detect the spam message using ML techniques
 - The **Multinomial Naive Bayes** classifier is particularly effective for text classification tasks due to its simplicity and efficiency in handling large datasets.
 
 # Dataset
-The dataset used for this project is the **SMS Spam Collection Dataset** from Kaggle.
+The dataset used for this project is the **SMS Spam Collection Dataset** from Kaggle.(https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 # How to Run:
 1. Clone this repository.
